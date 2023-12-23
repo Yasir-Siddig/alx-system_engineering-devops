@@ -20,4 +20,5 @@ package, and execute a command.
 
 * **2. Execute a command**
   * [2-execute_a_command.pp](./2-execute_a_command.pp): Puppet manifest file
-  that kills the process `killmenow`.
+YASIRI
+that kills the process `killmenow`.
