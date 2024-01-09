@@ -4,6 +4,7 @@
 # Updating Packages before performing installations
 sudo apt update
 sudo apt install -y nginx
+sudo ufw allow 'Nginx HTTP'
 
 # Creating an index.html page
 echo "Hello World!" | sudo tee /var/www/html/index.html
